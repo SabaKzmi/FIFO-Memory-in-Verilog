@@ -1,6 +1,6 @@
 # FIFO Memory in Verilog
 This Verilog project features a First-In-First-Out (FIFO) memory block with 8 memory locations, each 16 bits wide. The FIFO includes control inputs for Reset, Write, and Read, along with flag outputs for Empty and Full. 
-Address management for read and write operations is handled by counters (rdIndex and wrIndex). The design uses data flow modeling and is simulated in ModelSim.
+Address management for read and write operations is handled by counters (rdIndex and wrIndex). The design uses behavioral modeling and is simulated in ModelSim.
 ## ASM Chart
 State transitions and control logic for the FIFO design.
 <p align="center">
