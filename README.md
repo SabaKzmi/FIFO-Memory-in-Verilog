@@ -4,7 +4,7 @@ Address management for read and write operations is handled by counters (rdIndex
 ## ASM Chart
 State transitions and control logic for the FIFO design.
 <p align="center">
-  <img src="https://github.com/SabaKzmi/FIFO-Memory-in-Verilog/blob/17023b523a04c527403415c3b1a21fc816919a3f/pictures/ASM-chart.png" alt="ASM chart"/>
+  <img src="https://github.com/SabaKzmi/FIFO-Memory-in-Verilog/blob/17023b523a04c527403415c3b1a21fc816919a3f/pictures/ASM-chart.png" alt="ASM chart" width="500"/>
 </p>
 
 ## How to Use
